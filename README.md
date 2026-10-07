@@ -19,7 +19,7 @@ This device consolidates many features and a wide range of protocols and frequen
 | E07-400M10S | CC1101 Wireless Module | U2 | 1 | C2965513 | https://www.lcsc.com/product-detail/C2965513.html |
 | TYPE-C 16P QTWT | USB Type-C 16-Pin Receptacle | J1 | 1 | C5187472 | https://www.lcsc.com/product-detail/C5187472.html |
 | ESPC5-32E-H4 | ESP32-C5 Wireless Module | U1 | 1 | C52139915 | https://www.lcsc.com/product-detail/C52139915.html |
-| LCD | 2.8" SPI Touch Display | LCD1 | 1 | — | aliexpress.com/item/1005010008924503.html? |
+| LCD | 2.8" SPI Touch Display | LCD1 | 1 | — | https://aliexpress.com/item/1005010008924503.html? |
   
 
 **Changelog**  
