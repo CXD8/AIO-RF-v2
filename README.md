@@ -5,10 +5,14 @@ Connect via USB Type-C to flash firmware via your preferred flashing software th
 
 **Why**  
 This device consolidates many features and a wide range of protocols and frequencies into one clean, portable device for wireless experimentation and IoT development.  
-
+PCB  
 ![PCB](images/PCB-3D.PNG)
 ![PCB](images/PCB-L1.PNG)
+Schematic  
+![PCB](images/sch_s2.PNG)
+![PCB](images/sch_s1.PNG)
 
+Housing  
 ![Housing](images/image.png)
   
 **Bill of Materials**  
