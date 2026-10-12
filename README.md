@@ -28,7 +28,7 @@ Housing
 | E07-400M10S | CC1101 Wireless Module | U2 | 1 | C2965513 | $3.2173 | $3.22 | [LCSC](https://www.lcsc.com/product-detail/C2965513.html) |
 | TYPE-C 16P QTWT | USB Type-C 16-Pin Receptacle | J1 | 1 | C5187472 | $0.0713 | $0.07 | [LCSC](https://www.lcsc.com/product-detail/C5187472.html) |
 | ESPC5-32E-H4 | ESP32-C5 Wireless Module | U1 | 1 | C52139915 | $4.1374 | $4.14 | [LCSC](https://www.lcsc.com/product-detail/C52139915.html) |
-| LCD | 2.8" SPI Touch Display | LCD1 | 1 | — | ~$10.76 | $10.76 | [AliExpress](https://aliexpress.com/item/1005010008924503.html) |
+| LCD | 2.8" SPI Touch Display | LCD1 | 1 | N/A | ~$10.76 | $10.76 | [AliExpress](https://aliexpress.com/item/1005010008924503.html) |
 | **TOTAL** | | | **23** | | | **$27.56** | |
   
 
